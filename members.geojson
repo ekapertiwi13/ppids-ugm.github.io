@@ -23,7 +23,16 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
-    }
-
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama": "Eka Pertiwi",
+        "alamat": "Pekanbaru, Riau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.425487, 0.539677]
+      }
   ]
 }
